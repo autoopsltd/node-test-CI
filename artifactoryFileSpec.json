@@ -2,8 +2,8 @@
   "files": [
     {
       "pattern": "*.js",
-      "target": "generic-local/node-test-CI",
-      "props": "",
+      "target": "generic-local/",
+      "props": "status=ready",
       "recursiv": "Default: 'true'",
       "flat" : "Default: 'false'",
       "regexp": "Default: 'false'",
