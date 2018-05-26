@@ -1,7 +1,7 @@
 {
   "files": [
     {
-      "pattern": "*.js",
+      "pattern": "app.js",
       "target": "generic-local/",
       "props": "status=ready",
       "recursiv": "Default: 'true'",
