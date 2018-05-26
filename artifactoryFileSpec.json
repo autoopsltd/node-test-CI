@@ -1,0 +1,14 @@
+{
+  "files": [
+    {
+      "pattern": "[/var/lib/jenkins/workspace/Store node-test-CI]",
+      "target": "[generic-local/node-test-CI]",
+      "props": "[]",
+      "recursive": "[Default: 'true']",
+      "flat" : "[Default: 'true']",
+      "regexp": "[Default: 'false']",
+      "explode": "[Default: false]",
+      "excludePatterns": ["[]"]
+    }
+  ]
+}
