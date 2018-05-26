@@ -1,7 +1,7 @@
 {
   "files": [
     {
-      "pattern": "[/var/lib/jenkins/workspace/Storenode-test-CI/*.js]",
+      "pattern": "[/var/lib/jenkins/workspace/Storenode-test-CI/]",
       "target": "[generic-local/]",
       "props": "[]",
       "recursive": "[Default: 'true']",
