@@ -1,7 +1,7 @@
 {
   "files": [
     {
-      "pattern": "[/var/lib/jenkins/workspace/Store node-test-CI/*]",
+      "pattern": "[/var/lib/jenkins/workspace/Store\ node-test-CI/*.js]",
       "target": "[generic-local/node-test-CI/]",
       "props": "[]",
       "recursive": "[Default: 'true']",
