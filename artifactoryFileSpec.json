@@ -1,14 +1,14 @@
 {
   "files": [
     {
-      "pattern": "[*.js]",
-      "target": "[generic-local/node-test-CI]",
-      "props": []",
-      "recursiv": "[Default: 'true']",
-      "flat" : "[Default: 'false']",
-      "regexp": "[Default: 'false']",
-      "explode": "[Default: false]",
-      "excludePatterns": ["[]"]
+      "pattern": "*.js",
+      "target": "generic-local/node-test-CI",
+      "props": "",
+      "recursiv": "Default: 'true'",
+      "flat" : "Default: 'false'",
+      "regexp": "Default: 'false'",
+      "explode": "Default: false",
+      "excludePatterns": "[]"
     }
   ]
 }
