@@ -1,12 +1,12 @@
 {
   "files": [
     {
-      "pattern": "/var/lib/jenkins/workspace/Store\ node-test-CI/app.js",
+      "pattern": "/var/lib/jenkins/workspace/Store\ node-test-CI/*",
       "target": "generic-local/",
       "props": "status=ready",
       "recursiv": "Default: 'true'",
       "flat" : "Default: 'false'",
-      "regexp": "Default: 'false'",
+      "regexp": "Default: 'true'",
       "explode": "Default: false",
       "excludePatterns": "[]"
     }
